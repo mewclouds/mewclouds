@@ -31,7 +31,7 @@
 
 </td>
 
-<td valign="top" width="32%">
+<td valign="top" width="29%">
 
 ### ⚙️ Frameworks & Runtimes
 
@@ -43,7 +43,7 @@
 
 </td>
 
-<td valign="top" width="19%">
+<td valign="top" width="22%">
 
 ### 🐳 DevOps & OS
 
