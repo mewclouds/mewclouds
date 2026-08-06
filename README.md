@@ -73,7 +73,7 @@
 
 ↳ AI — using it, building with it, letting it write my code<br>
 ↳ automation & DevOps — if I do it twice, I automate it<br>
-↳ solving problems that makes people's lives easier<br>
+↳ solving problems that make people's lives easier<br>
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=B3E6FF&vCenter=true&width=500&lines=currently+dreaming+about" alt="currently dreaming about" />
 
