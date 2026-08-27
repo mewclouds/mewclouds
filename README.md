@@ -78,7 +78,12 @@
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=B3E6FF&vCenter=true&width=500&lines=currently+dreaming+about" alt="currently dreaming about" />
 
-↳ Kuusou 空想 — my little tinkering corner<br>
+↳ Kuusou 空想 — my little tinkering corner. Maintaining crates for [Cratebug](https://github.com/Kuusouu/Cratebug)<br>
+↳ [Dots](https://github.com/mewclouds/dotfiles) — my Ruby-powered dotfiles ❤️<br>
+↳ [Rippie](https://github.com/rippieapp/rippie-core) — a music-link resolution npm package, aiming to connect music lovers<br>
+↳ [Winutil](https://github.com/ChrisTitusTech/winutil) — giving back after years of lessons learned from CTT<br>
+↳ [Drvctl](https://github.com/mewclouds/drvctl) — a driver control library meant to challenge old/legacy DISM<br>
+
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=FFD9B3&vCenter=true&width=500&lines=on+hold" alt="on hold" />
 
